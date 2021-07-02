@@ -1,6 +1,6 @@
-# Release Note
+# Armoury Crate Release Note
 
-## [Armoury Crate v4.1.6.0](#armoury-crate-v4160)
+## [Armoury Crate v4.1.6.0](#v4.1.6.0)
 
 Core service updates:
 1. Armoury Crate Service v4.1.5
@@ -31,7 +31,7 @@ Newly supported models:
 
 ***
 
-## [Armoury Crate v4.0.8.0](#armoury-crate-v4080)
+## [Armoury Crate v4.0.8.0](v4.0.8.0)
 
 Core services updates:
 
@@ -43,7 +43,7 @@ Newly supported models:
 
 ***
 
-## [Armoury Crate v3.3.7.0](#armoury-crate-v3370)
+## [Armoury Crate v3.3.7.0](v3.3.7.0)
 
 Core services updates:
 1. Armoury Crate Service v3.3.7
